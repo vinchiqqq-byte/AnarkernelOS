@@ -1,4 +1,4 @@
-# AnarkernelOS
+# EntropyWare
 
 My simple OS written of C, C++.
 
