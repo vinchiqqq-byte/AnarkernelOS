@@ -1,1 +1,1 @@
- == Anarkernel OS - анархия ядра.
+EntropyWare – энтропия вместо порядка
