@@ -1,5 +1,7 @@
 # EntropyWare
 
+![alt text](logo.png)
+
 My simple OS written of C, C++.
 
 ## Description
