@@ -35,3 +35,7 @@ https://github.com/vinchiqqq-byte
 -Help with code (I really appreciate it, youre the best)
 
 https://github.com/terra-fx-t-byte
+
+-Image
+
+https://chatgpt.com
