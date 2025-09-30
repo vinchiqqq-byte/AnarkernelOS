@@ -39,7 +39,8 @@ Fell free to use these too!
 
 ## Getting Started
 
-* Download an .img file in releases
+* Download an .img file in releases (for now, there's not)
+
 * Plug the USB drive and flash it
 
 ## Executing OS
