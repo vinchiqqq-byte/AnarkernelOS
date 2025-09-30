@@ -42,7 +42,7 @@ Fell free to use these too!
 * Download an .img file in releases
 * Plug the USB drive and flash it
 
-### Executing OS
+## Executing OS
 
 * Dont forget to turn on legacy boot!
 * Insert the usb drive
