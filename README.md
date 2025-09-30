@@ -24,8 +24,8 @@
 
 ## Description
 
-Right now, project stil in development, expect many thiings to change,
-bugs and more
+Right now, project stil in development, expect many things to change,
+bugs and more.
 
 ### Tools used
 
