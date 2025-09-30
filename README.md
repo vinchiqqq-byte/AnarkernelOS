@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/vinchiqqq-byte/EntropyWare">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -8,10 +8,10 @@
   <p align="center">
     An custom OS written on C, C++!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/vinchiqqq-byte/EntropyWare"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/vinchiqqq-byte/EntropyWare">View Demo</a>
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
